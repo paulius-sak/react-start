@@ -7,6 +7,7 @@ const MainWrapper = () => {
       <Card />
       <Card />
       <Card />
+      <Card />
     </div>
   );
 };
